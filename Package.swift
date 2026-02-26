@@ -15,7 +15,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://github.com/nedols/kotlin-multiplatform-fibonacci/releases/download/1.0.1/Shared.xcframework.zip",
-         checksum:"6eeb20fc23f3f8ea82d91329a8b6bb16210458355cdb640f430006ea006f6929")
+         url: "https://github.com/nedols/kotlin-multiplatform-fibonacci/releases/download/1.0.2/Shared.xcframework.zip",
+         checksum: "6eeb20fc23f3f8ea82d91329a8b6bb16210458355cdb640f430006ea006f6929")
    ]
 )
